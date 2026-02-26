@@ -5,8 +5,8 @@ build-backend = "hatchling.build"
 
 # パッケージのメタデータ
 [project]
-name = "example_package_YOUR_USERNAME_HERE"  #YOUR_USERNAME_HEREにはあなたの名前を入れてください。
-version = "0.0.1"
+name = "example-package-mami-2026"  
+version = "0.0.2"
 authors = [
   { name="Example Author", email="author@example.com" },
 ]
